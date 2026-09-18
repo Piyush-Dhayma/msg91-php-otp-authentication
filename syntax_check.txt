@@ -1,0 +1,9 @@
+verify.php: No syntax errors detected in /mnt/data/msg91_realtime_otp_fixed/verify.php
+index.php: No syntax errors detected in /mnt/data/msg91_realtime_otp_fixed/index.php
+functions.php: No syntax errors detected in /mnt/data/msg91_realtime_otp_fixed/functions.php
+config.php: No syntax errors detected in /mnt/data/msg91_realtime_otp_fixed/config.php
+dashboard.php: No syntax errors detected in /mnt/data/msg91_realtime_otp_fixed/dashboard.php
+send_otp.php: No syntax errors detected in /mnt/data/msg91_realtime_otp_fixed/send_otp.php
+resend_otp.php: No syntax errors detected in /mnt/data/msg91_realtime_otp_fixed/resend_otp.php
+logout.php: No syntax errors detected in /mnt/data/msg91_realtime_otp_fixed/logout.php
+db.php: No syntax errors detected in /mnt/data/msg91_realtime_otp_fixed/db.php
